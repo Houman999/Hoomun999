@@ -1,4 +1,3 @@
-# Hoomun999
 # 💫 About Me:
 👋 I'm a passionate beginner in biomedical computer vision with a background in computer science (Bachelor's degree). I'm deeply interested in applying AI to medical imaging and bioinformatics to support healthcare and research.<br><br>👯 I’m looking to collaborate on open-source projects in medical imaging, deep learning, and healthcare AI applications.<br><br>🌱 I’m currently learning Medical image analysis, bioinformatics, custom deep learning models, evaluation metrics, and using TensorFlow/Keras for model development.<br><br>💬 Ask me about My journey as a beginner in biomedical AI and bioinformatics.<br><br>⚡ Fact:<br>I love reading philosophy books and try to view everything through my own philosophical lens. It helps me stay curious, question deeply, and think differently—even in code!
 
